@@ -39,6 +39,7 @@ input
 - Application management: `docker-compose`
 
 ## How to test
+> As this project runs with `docker-compose`, you need to install Docker before running the commands below.
 
 ```shell
 $ git clone https://github.com/qingqingqingli/ft_transcendence.git
@@ -57,3 +58,12 @@ $ sh setup.sh
 
 - User can decide to join a waiting room to be matched for a pong game
 [![game_waitingroom](https://github.com/qingqingqingli/ft_transcendence/blob/master/images/game_waitingroom.png)](https://github.com/qingqingqingli/ft_transcendence)
+
+
+## Project wiki
+
+> I have summarised all my learnings from this project in the Wiki:
+- [React](https://github.com/qingqingqingli/ft_transcendence/wiki/React)
+- [NestJS](https://github.com/qingqingqingli/ft_transcendence/wiki/NestJS)
+- [TypeScript](https://github.com/qingqingqingli/ft_transcendence/wiki/TypeScript)
+- [TypeORM](https://github.com/qingqingqingli/ft_transcendence/wiki/TypeORM)
