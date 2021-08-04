@@ -41,12 +41,12 @@ input
 ## How to test
 
 ```shell
-$ git clone https://github.com/qingqingqingli/ft_transcendence
+$ git clone https://github.com/qingqingqingli/ft_transcendence.git
 $ cd ft_transcendence
-$ docker-compose up --build
+$ sh setup.sh
 ```
 
 ## Demo
-> The demo below shows how to run the webserv with the default config file. It demonstrated the loading of a static webpage, cgi output, authentication, autoindex, HTTP redirection.
+> The demo below shows how to use the main services of the website. Due to the project requirement, another 42 user's credential is needed to test the game part.
 
-[![demo](https://github.com/qingqingqingli/webserv/blob/main/images/webserv.gif)](https://github.com/qingqingqingli/webserv)
+<!-- [![demo](https://github.com/qingqingqingli/webserv/blob/main/images/webserv.gif)](https://github.com/qingqingqingli/ft_transcendence) -->
