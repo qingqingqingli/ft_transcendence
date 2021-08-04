@@ -46,7 +46,14 @@ $ cd ft_transcendence
 $ sh setup.sh
 ```
 
-## Demo
-> The demo below shows how to use the main services of the website. Due to the project requirement, another 42 user's credential is needed to test the game part.
+- Enter `localhost:8080` to be directed to the login page
+[![login](https://github.com/qingqingqingli/webserv/blob/main/images/login.png)](https://github.com/qingqingqingli/ft_transcendence)
 
-<!-- [![demo](https://github.com/qingqingqingli/webserv/blob/main/images/webserv.gif)](https://github.com/qingqingqingli/ft_transcendence) -->
+- Only 42 users can sign up to become a user
+[![signup](https://github.com/qingqingqingli/webserv/blob/main/images/signup.png)](https://github.com/qingqingqingli/ft_transcendence)
+
+- User homepage
+[![profile](https://github.com/qingqingqingli/webserv/blob/main/images/user_profile.png)](https://github.com/qingqingqingli/ft_transcendence)
+
+- User can decide to join a waiting room to be matched for a pong game
+[![game_waitingroom](https://github.com/qingqingqingli/webserv/blob/main/images/game_waitingroom.png)](https://github.com/qingqingqingli/ft_transcendence)
