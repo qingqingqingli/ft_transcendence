@@ -6,9 +6,20 @@
 This is a group project completed by [Q. Li](https://github.com/qingqingqingli) & [R. Bakker](https://github.com/rbakker96) & [G. Bouwen](https://github.com/gbouwen) & [thimovandermeer](https://github.com/thimovandermeer).
 
 ## Main technical requirements
-> Full details are included in the `ft_transcendence_subject.pdf` file.
+> Full details are included in the `ft_transcendence_subject.pdf` file. The sections below are required:
 
-The tech stack of this project:
+- **Security concerns**:
+	- Any password stored in your database must be encrypted
+	- Your website must be protected against SQL injections
+	- You must implement some kind of server-side validation for forms and any user
+input
+- **User Account**:
+- **Chat**:
+- **Game**:
+
+
+## Tech stack
+
 - Programming language: `TypeScript`
 - Frontend library: `React`
 - Backend framework: `NestJS`
@@ -16,14 +27,11 @@ The tech stack of this project:
 - Application management: `docker-compose`
 
 ## How to test
-> Disclaimer: The current version works on Ubuntu distributions.
 
 ```shell
-$ git clone https://github.com/qingqingqingli/webserv
-$ cd webserv
-$ make
-# run the executable with one valid config provided
-$ ./webserv configuration_files/valid/default.conf
+$ git clone https://github.com/qingqingqingli/ft_transcendence
+$ cd ft_transcendence
+$ docker-compose up --build
 ```
 
 ## Demo
