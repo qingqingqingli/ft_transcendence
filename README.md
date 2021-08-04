@@ -14,22 +14,20 @@ This is a group project completed by [Q. Li](https://github.com/qingqingqingli) 
 	- You must implement some kind of `server-side validation` for forms and any user
 input
 - **User Account**:
-	- A user must log in using the OAuth system of 42 intranet
-	- A user must be able to choose a unique name that will be displayed on the website
-	- A user has several victories and losses and other stats
-	- A user must have an avatar generated or uploaded by the user
-	- A user must be able to activate a 2-factor authentication
-	- A user can add other users as friends, and see their current status
+	- A user must log in using the `OAuth system of 42 intranet`
+	- A user must be able to choose a `unique name` that will be displayed on the website
+	- A user has several `victories` and `losses` and other stats
+	- A user must have an `avatar` generated or uploaded by the user
+	- A user must be able to activate a `2-factor authentication`
+	- A user can add other users as `friends`, and see their current status
 - **Chat**:
-	- Users must be able to create channels public/private or protected by a password
-	- Users must be able to send direct messages to other users
-	- Users must be able to block other user and therefore they will not see their messages anymore
-	- A user that creates a new channel is automatically its owner until he leaves the
-channel
-	- Through the chat interface users must be able to see other players profiles
+	- Users must be able to `create channels` public/private or protected by a password
+	- Users must be able to `send direct messages` to other users
+	- Users must be able to `block other user` and therefore they will not see their messages anymore
+	- Through the chat interface users must be able to see `other players profiles`
 - **Game**:
-	- Be able to play pong directly on the website and live against another player.
-	- There must be a match-making system, user can join a game queue and are automatically matched with another player.
+	- Be able to `play pong directly` on the website and live against another player.
+	- There must be `a match-making system`, user can join a game queue and are automatically matched with another player.
 
 
 ## Tech stack
