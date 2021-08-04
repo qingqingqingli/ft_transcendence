@@ -5,10 +5,15 @@
 
 This is a group project completed by [Q. Li](https://github.com/qingqingqingli) & [R. Bakker](https://github.com/rbakker96) & [G. Bouwen](https://github.com/gbouwen) & [thimovandermeer](https://github.com/thimovandermeer).
 
-## Technical considerations
-> Full details are included in the `ft_transcendence_subject.pdf` file
+## Main technical requirements
+> Full details are included in the `ft_transcendence_subject.pdf` file.
 
--
+The tech stack of this project:
+- Programming language: `TypeScript`
+- Frontend library: `React`
+- Backend framework: `NestJS`
+- Database: `PostgreSQL`
+- Application management: `docker-compose`
 
 ## How to test
 > Disclaimer: The current version works on Ubuntu distributions.
